@@ -1,3 +1,14 @@
+---
+title: ClinIQ-AI
+emoji: 🩺
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.35.0
+app_file: Register.py
+pinned: false
+---
+
 # Clinq AI – Medical Dashboard 🩺  
 
 Clinq AI is an intelligent **medical dashboard** powered by **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**.  
